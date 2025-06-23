@@ -15,5 +15,6 @@ export default defineConfig({
       },
     },
   },
-  assetsInclude: ['**/*.mp3', '**/*.wav', '**/*.ogg', '**/*.m4a']
+  assetsInclude: ['**/*.mp3', '**/*.wav', '**/*.ogg', '**/*.m4a', '**/*.jpeg', '**/*.jpg', '**/*.png'],
+  publicDir: 'public'
 })
