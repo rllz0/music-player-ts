@@ -34,7 +34,7 @@ A beautiful, responsive music player built with React and TypeScript featuring a
 
 ## 🚀 Live Demo
 
-**[View Live Site](-)**
+**[View Live Site](https://rllz0.github.io/music-player-ts/)**
 
 Try out the music player with the included sample tracks from popular artists like Taylor Swift, The Weeknd, Ed Sheeran, and more!
 
